@@ -18,6 +18,7 @@ public class MainApp {
 
             judete[i] = flux_in.readLine();
         }
+        flux_in.close();
 
         Arrays.sort(judete, 0, 41);
         for (int j = 0; j<judete.length -1 ;j++){

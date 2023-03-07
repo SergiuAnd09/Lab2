@@ -34,7 +34,7 @@ public class MainApp {
                     int inch = scanner.nextInt();
 
                     sir1.delete(del, inch);
-                    System.out.println(sir1);
+                    System.out.println(sir1 );
         }
         else {
             System.out.println("Sirul de inserat e prea mare pentru cel suport");

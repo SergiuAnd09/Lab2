@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b51f07c-fdc4-4987-b568-155b4d6651e4" name="Changes" comment="First">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab2_2/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2_2/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2_3/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2_3/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +39,30 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "D:/Facultate(UPT)/Semestru_4_UPT_Informatica/Programare_Java/Probleme,Proiecte/Lab1",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lab2_3.MainApp">
+  <component name="RunManager" selected="Application.lab2_2.MainApp">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2_1.MainApp" />
       <module name="Lab2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lab2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab2_2.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2_2.MainApp" />
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +85,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab2_3.MainApp" />
+        <item itemvalue="Application.lab2_2.MainApp" />
         <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.lab2_3.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677757081873</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First">
+      <created>1677757399656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677757399656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
